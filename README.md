@@ -43,8 +43,8 @@
 
 <section id="contact">
     <h2>Aloqa</h2>
-    <p>📩 Telegram: @RedFoxPlay</p>
-    <p>📞 Telefon: +998 XX XXX XX XX</p>
+    <p>📩 Telegram: @RedFoxPlayy</p>
+    <p>📞 Telefon: +998 94 997 47 99 </p>
 </section>
 
 <footer>
